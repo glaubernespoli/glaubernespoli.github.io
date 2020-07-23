@@ -37,7 +37,7 @@ First, check if you already have the variable set:
 $ echo $JAVA_HOME
 # /usr/lib/jvm/java-11-openjdk-amd64/
 ```
-If you get the above output, [skip to step 4](https://github.com/glaubernespoli/FbW39_Lessons/blob/master/W3C%20Validation/README.md#4-using-the-w3c-validation-extension-in-vscode). If you get an empty line, follow this step.
+If you get the above output, [skip to step 4](#4-using-the-w3c-validation-extension-in-vscode). If you get an empty line, follow this step.
 
 To set this environment variable, first determine where Java is installed. Use the  `update-alternatives`  command:
 

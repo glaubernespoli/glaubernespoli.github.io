@@ -15,7 +15,7 @@ openjdk version "11.0.7" 2020-04-14
 OpenJDK Runtime Environment (build 11.0.7+10-post-Ubuntu-3ubuntu1)
 OpenJDK 64-Bit Server VM (build 11.0.7+10-post-Ubuntu-3ubuntu1, mixed mode, sharing)
 ```
-If you get the above result, [skip to step 3](https://github.com/glaubernespoli/FbW39_Lessons/blob/master/W3C%20Validation/README.md#3-setting-the--java_home--environment-variable). If Java is not currently installed, you’ll see a message saying *command not found*. 
+If you get the above result, [skip to step 3](#3-setting-the--java_home--environment-variable). If Java is not currently installed, you’ll see a message saying *command not found*. 
 
 Update your package list to make the new software available for installation:
 ```shell

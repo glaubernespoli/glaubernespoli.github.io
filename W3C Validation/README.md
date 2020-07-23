@@ -1,11 +1,11 @@
 # Installing and using the W3C Validator plugin in VSCode
 
-### 1. Install the W3C Validation
+## 1. Install the W3C Validation
 Search for the [W3C Validation extension](https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation) in VSCode Extensions marketplace and install the one created by Umoxfo:
 
 ![W3C Validation Extension](https://i.imgur.com/6VTZve5.png)
 
-### 2. Install Java
+## 2. Install Java
 The plugin runs on Java. It requires Java 8+ in order to work.
 By default, Ubuntu 20.04 includes Open JDK 11, so check if you have it already installed.
 
@@ -29,7 +29,7 @@ sudo apt install default-jdk
 
 Now run the `java -version` command again and you should have it installed.
 
-### 3. Setting the  `JAVA_HOME`  Environment Variable
+## 3. Setting the  `JAVA_HOME`  Environment Variable
 Many programs written using Java use the  `JAVA_HOME`  environment variable to determine the Java installation location.
 
 First, check if you already have the variable set:
@@ -84,7 +84,7 @@ $ echo $JAVA_HOME
 ```
 And that's it! You now have your `$JAVA_HOME` variable set correctly.
 
-### 4. Using the W3C Validation extension in VSCode
+## 4. Using the W3C Validation extension in VSCode
 
 Open your VSCode (or restart it if you already had it opened).
 

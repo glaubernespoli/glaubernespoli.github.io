@@ -15,7 +15,7 @@ openjdk version "11.0.7" 2020-04-14
 OpenJDK Runtime Environment (build 11.0.7+10-post-Ubuntu-3ubuntu1)
 OpenJDK 64-Bit Server VM (build 11.0.7+10-post-Ubuntu-3ubuntu1, mixed mode, sharing)
 ```
-If you get the above result, skip to step 3. If Java is not currently installed, you’ll see a message saying *command not found*. 
+If you get the above result, [skip to step 3](https://github.com/glaubernespoli/FbW39_Lessons/blob/master/W3C%20Validation/README.md#3-setting-the--java_home--environment-variable). If Java is not currently installed, you’ll see a message saying *command not found*. 
 
 Update your package list to make the new software available for installation:
 ```shell
@@ -37,7 +37,7 @@ First, check if you already have the variable set:
 $ echo $JAVA_HOME
 # /usr/lib/jvm/java-11-openjdk-amd64/
 ```
-If you get the above output, skip to step 4. If you get an empty line, follow this step.
+If you get the above output, [skip to step 4](https://github.com/glaubernespoli/FbW39_Lessons/blob/master/W3C%20Validation/README.md#4-using-the-w3c-validation-extension-in-vscode). If you get an empty line, follow this step.
 
 To set this environment variable, first determine where Java is installed. Use the  `update-alternatives`  command:
 

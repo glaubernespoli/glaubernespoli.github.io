@@ -1,7 +1,8 @@
 # Installing and using the W3C Validator plugin in VSCode
 
 ### 1. Install the W3C Validation
-Search for the [W3C Validation extension](https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation) and install the one created by Umoxfo
+Search for the [W3C Validation extension](https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation) and install the one created by Umoxfo:
+
 ![W3C Validation Extension](https://i.imgur.com/6VTZve5.png)
 
 ### 2. Install Java
